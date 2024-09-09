@@ -13,4 +13,5 @@
 - 2x Pro micro microcontroller.
 - Cables.
 
+# Info:
 This is WIP, but the first beta (1.2) is perfectly printable, and im currently using it, and i will continue improving the design!
